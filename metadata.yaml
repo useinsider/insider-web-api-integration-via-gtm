@@ -1,0 +1,5 @@
+homepage: "https://useinsider.com/"
+documentation: "https://developers.useinsider.com/docs"
+versions:
+  - sha: 0f283f7fd3d8af291eadcf429cc18f0ee4da5d84
+    changeNotes: First release Insider Web API Integration.
